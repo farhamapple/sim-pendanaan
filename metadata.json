@@ -1,0 +1,5 @@
+{
+  "name": "SIM-Pendanaan Riset BRIN",
+  "description": "Sistem Informasi Manajemen Keuangan untuk Pendanaan Riset BRIN, mencakup registrasi proyek, monitoring realisasi anggaran, manajemen kwitansi, dan verifikasi keuangan bertingkat.",
+  "requestFramePermissions": []
+}
